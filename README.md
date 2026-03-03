@@ -1,6 +1,11 @@
 # Challenge-Telecom-X
 Data Science
 
+# Análise de Churn — Telecom X
+Propósito
+Este projeto tem como objetivo analisar os principais fatores que influenciam o churn (evasão de clientes) na Telecom X. A análise busca identificar padrões de cancelamento, compreender variáveis críticas que impactam a retenção e propor estratégias para reduzir a taxa de churn.
+
+
 data/
 │   ├── telecom_churn.csv        # Base de dados utilizada
 │
