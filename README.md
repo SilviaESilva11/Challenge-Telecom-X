@@ -23,6 +23,7 @@ Investigar o comportamento de cancelamento de clientes da Telecom X para apoiar 
 - **Cobrança mensal e encargos:** comparação de valores médios e distribuição por *boxplot*.
 
 ## ▶️ Como Executar Localmente
+
 1. Clone o repositório e abra a pasta no VS Code.
 2. Crie e ative o ambiente virtual (`.venv`):
    ```powershell
