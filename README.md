@@ -30,5 +30,5 @@ Investigar o comportamento de cancelamento de clientes da Telecom X para apoiar 
    python -m venv .venv
    .\.venv\Scripts\Activate.ps1
    
-   ## 👩‍💻 Autora
+## 👩‍💻 Autora
 **Silvia Galvão**
