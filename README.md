@@ -1,25 +1,14 @@
-# Challenge-Telecom-X
-Data Science
+# 📊 Challenge Telecom X — Análise de Evasão de Clientes (Churn)
 
-# Análise de Churn — Telecom X
-Propósito:
-Este projeto tem como objetivo analisar os principais fatores que influenciam o churn (evasão de clientes) na Telecom X. A análise busca identificar padrões de cancelamento, compreender variáveis críticas que impactam a retenção e propor estratégias para reduzir a taxa de churn.
+Análise exploratória de dados (EDA) e tratamento de base de clientes de telecomunicações para identificar os principais fatores associados ao cancelamento de serviços (*Churn*).
 
+---
 
-data/
-│   ├── telecom_churn.csv        # Base de dados utilizada
-│
-├── notebooks/
-│   ├── churn_analysis.ipynb     # Notebook principal da análise
-│
-├── reports/
-│   ├── churn_summary.pdf        # Relatório com insights e gráficos
-│
-├── README.md                    # Documentação do projeto
+## 📁 Estrutura do Repositório
 
-git clone https://github.com/seuusuario/telecom-churn.git
-cd telecom-churn
-
-pip install -r requirements.txt
-
-jupyter notebook notebooks/churn_analysis.ipynb
+```text
+Challenge-Telecom-X/
+├── Challenge_2_Telecom_X.ipynb   # Notebook principal com extração, limpeza, análises e gráficos
+├── TelecomX_Data.json            # Base de dados bruta em formato JSON (7.267 registros)
+├── TelecomX_dicionario.md        # Dicionário de variáveis da base de dados
+└── README.md                     # Documentação do projeto
